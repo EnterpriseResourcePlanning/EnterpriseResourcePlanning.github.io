@@ -1,0 +1,4 @@
+> [Metasfresh](http://metasfresh.com)
+Metasfresh's name reflects its commitment to keeping its code "fresh." It's released weekly updates since late 2015, when its founders forked the code from the ADempiere project. Like ADempiere, it's an open source ERP based on Java targeted at the small and midsize business market.
+While it's a younger project than most of the other software described here, it's attracted some early, positive attention, such as being named a finalist for the Initiative Mittelstand "best of open source" IT innovation award.
+Metasfresh is free when self-hosted or for one user via the cloud, or on a monthly subscription fee basis as a cloud-hosted solution for 1-100 users. Its source code is available under the GPLv2 license at GitHub and its cloud version is licensed under GPLv3.
