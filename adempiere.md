@@ -1,0 +1,4 @@
+> [ADempiere](http://www.adempiere.net)
+  Like most other open source ERP solutions, ADempiere is targeted at small and midsized businesses. It's been around awhile—the project was formed in 2006 as a fork from the Compiere ERP software.
+  Its Italian name means to achieve or satisfy, and its "multidimensional" ERP features aim to help businesses satisfy a wide range of needs. It adds supply chain management (SCM) and customer relationship management (CRM) features to its ERP suite to help manage sales, purchasing, inventory, and accounting processes in one piece of software. Its latest release, v.3.9.0, updated its user interface, point-of-sale, HR, payroll, and other features.
+  As a multiplatform, Java-based cloud solution, ADempiere is accessible on Linux, Unix, Windows, MacOS, smartphones, and tablets. It is licensed under GPLv2. If you'd like to learn more, take its demo for a test run or access its source code on GitHub.
