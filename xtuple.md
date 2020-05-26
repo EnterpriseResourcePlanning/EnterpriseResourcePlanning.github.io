@@ -1,0 +1,3 @@
+> [xTuple PostBooks](https://xtuple.com)
+If your manufacturing, distribution, or e-commerce business has outgrown its small business roots and is looking for an ERP to grow with you, you may want to check out xTuple PostBooks. It's a comprehensive solution built around its core ERP, accounting, and CRM features that adds inventory, distribution, purchasing, and vendor reporting capabilities.
+xTuple is available under the Common Public Attribution License (CPAL), and the project welcomes developers to fork it to create other business software for inventory-based manufacturers. Its web app core is written in JavaScript, and its source code can be found on GitHub. To see if it's right for you, register for a free demo on xTuple's website.
