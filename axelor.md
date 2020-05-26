@@ -1,0 +1,4 @@
+> [Axelor ERP](https://www.axelor.com/erp)
+Boasting over 20 components, Axelor ERP is a complete ERP system — one that covers purchasing and invoicing, sales and accounting, stock and cash management, and more. All of that comes wrapped in a clean and easy-to-use interface.
+And it's that interface that sets Axelor apart from many of its competitors. All of Alexor's components are grouped in the pane on the left side of its window. Everything you need to do is a couple of clicks away. If, say, you need to refund a customer click Invoicing and then click Cust. Refunds. Everything you need is at the beck and call of your mouse cursor.
+Install Axelor using a Docker image or grab the source code from GitHub, which is published under an AGPLv3 license. Before you install Axelor, consider taking it for a spin to get a feel for the system.
